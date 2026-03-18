@@ -1,13 +1,7 @@
 <template>
-  <div>
-list
-  </div>
+  <div> list 删除 添加改动 随便改的</div>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>
